@@ -1,0 +1,8 @@
+{
+  "name": "Town Witness App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "a5dc07d0"
+}

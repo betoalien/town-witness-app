@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Town Witness App",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
